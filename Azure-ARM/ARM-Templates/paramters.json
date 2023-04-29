@@ -3,22 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "location": {
-            "value": "WestEurope"
+            "value": "eastus"
         },
         "hostingplanname": {
-            "value": "ContosoFinance-Demo-Plan"
-        },
-        "webappname": {
-            "value": "ContosoFinance-Demo-Site"
+            "value": "anish-grp"
         },
         "apiname": {
-            "value": "ContosoFinance-Demo-Api"
+            "value": "azure-sba"
         },
         "sqlservername": {
-            "value": "ContosoFinance-Demo-Sql"
+            "value": "sql-server-1991"
         },
         "databasename": {
-            "value": "contosofinancedemodb"
+            "value": "sql-database-1991"
         },
         "skuName": {
             "value": "F1"
@@ -27,10 +24,10 @@
             "value": 1
         },
         "sqlAdministratorLogin": {
-            "value": "SysAdmin"
+            "value": "sqladmin"
         },
         "sqlAdministratorLoginPassword": {
-            "value": "Ajsy37_8fhewkb9!29Cfbchda"
+            "value": "Anish@1991"
         }
     }
 }
